@@ -39,7 +39,7 @@ These studies use large spectroscopic samples to connect stellar chemistry, kine
 Key papers:
 
 - **Wang et al. 2025**, *oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri using Sodium Absorptions*, ApJ, 994, 143 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
-- **Wang et al. 2026**, *oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph*, arXiv:2603.01041, submitted to ApJ — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
+- **Wang et al. 2026**, *oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph*, arXiv:2603.01041, accepted for publication in ApJ — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
 
 ![Foreground and intracluster Na absorption toward Omega Centauri]({{ "zixianwang/images/wang2025_fig.jpg" | relative_url }})
 
