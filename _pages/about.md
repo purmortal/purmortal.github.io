@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate in the Department of Physics & Astronomy at the [University of Utah](https://www.physics.utah.edu/research/astronomy/). I received my PhD in the [Sydney Institute for Astronomy (SIfA)](https://sifa.sydney.edu.au/) from the [University of Sydney](https://www.sydney.edu.au/) in 2023, and my BSc in Astronomy from [Nanjing University](https://www.nju.edu.cn/en/) in 2019.
+I am an astronomer specialising in stellar spectroscopy, Galactic and extragalactic archaeology, and galaxy evolution. I previously worked as a Postdoctoral Research Associate in the Department of Physics & Astronomy at the [University of Utah](https://www.physics.utah.edu/research/astronomy/). I received my PhD in Astronomy and Astrophysics from the [University of Sydney](https://www.sydney.edu.au/) in 2023, where I was based at the [Sydney Institute for Astronomy (SIfA)](https://sifa.sydney.edu.au/), and my BSc in Astronomy and Astrophysics from [Nanjing University](https://www.nju.edu.cn/en/) in 2019.
 
-My research focuses on stellar spectroscopy, stellar populations, Galactic archaeology, and galaxy evolution. I am particularly interested in using integral-field spectroscopy and machine-learning techniques to study individual stars in crowded regions of the Milky Way and to connect detailed Milky Way studies with integrated-light observations of external galaxies.
+My research focuses on understanding the formation and evolution of the Milky Way and nearby galaxies through stellar spectroscopy, chemical abundances, and stellar populations. I specialise in applying machine-learning techniques to integral-field spectroscopic observations, particularly with VLT/MUSE, to investigate individual stars in crowded stellar fields, including globular clusters and the Galactic bulge. I also develop computational tools, including GalCraft, to connect detailed studies of the Milky Way with integrated-light observations of external galaxies.
 
 Research interests
 ======
