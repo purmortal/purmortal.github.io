@@ -4,6 +4,8 @@ title: ""
 author_profile: true
 ---
 
+Content
+======
 
 - [Machine learning in stellar spectroscopy](#machine-learning-in-stellar-spectroscopy)
 - [Globular clusters](#globular-clusters)
