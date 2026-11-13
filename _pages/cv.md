@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-A brief summary of my education and professional experience is listed below. A full version of my CV can be downloaded here: [Download CV](/files/CV-20261113.pdf)
+A brief summary of my education and professional experience is listed below. A full version of my CV can be downloaded here: [Download CV](/files/CV-20261110.pdf)
 
 Education
 ======
