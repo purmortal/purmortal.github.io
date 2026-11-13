@@ -9,7 +9,7 @@ A full and updated list of my publications is available on [Google Scholar](http
 Publication summary
 ======
 
-- 24 papers in total, 5 first-author research papers and 1 conference proceeding, plus 1 first-author software publication.
+- 22 papers in total, 5 first-author research papers and 1 conference proceeding, plus 1 first-author software publication.
 - Research areas: stellar spectroscopy, Galactic archaeology, globular clusters, stellar populations, machine learning, and extragalactic archaeology.
 - ORCID: [0000-0003-2512-6892](https://orcid.org/0000-0003-2512-6892)
 
@@ -118,19 +118,15 @@ Refereed journal articles — published or accepted
 Manuscripts submitted to refereed journals
 ======
 
-20. Sadaf Z. Aliakbarzadeh, Caroline Foster, Tayyaba Zafar, Sarah L. Martell, Sebastian Kamann, et al. (including **Zixian Wang**),  
-    “The GECKOS Survey: Identifying Globular Clusters and H II Regions as Kinematic Tracers in Disc Galaxies Using Spatially Resolved Spectroscopy”,  
-    2026, *submitted to MNRAS*.
+
 
 21. Peter J. Smith, Nadine Neumayer, Anil C. Seth, Callie Clontz, Maximilian Häberle, et al. (including **Zixian Wang**),  
     “oMEGACat. XI. Kinematic Characterization of Omega Centauri's Subpopulations: A Flattened Primordial Component”,  
     2026, *submitted to ApJ*.
 
-22. Maximilian Häberle, Callie Clontz, Massimo Griggio, Mattia Libralato, Isabella Carlton, et al. (including **Zixian Wang**),  
-    “oMEGACat-JWST I. Project Description and Photometric Data Release”,  
-    2026, *submitted to Astronomy & Astrophysics*.
 
-23. **Zixian Wang**, Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Anil C. Seth, Gail Zasowski,  
+
+22. **Zixian Wang**, Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Anil C. Seth, Gail Zasowski,  
     “Age, Chemistry, and Kinematics of the Inner Galaxy Revealed by MUSE”,  
     2025, arXiv:2512.09527, *submitted to Nature Astronomy; under revision*.  
     [[SciX](https://scixplorer.org/abs/2025arXiv251209527W/abstract)]
