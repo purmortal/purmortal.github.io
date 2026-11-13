@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: 
+title: ""
 author_profile: true
 ---
 
