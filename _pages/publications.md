@@ -1,3 +1,4 @@
+
 ---
 permalink: /publications/
 title: ""
@@ -9,7 +10,7 @@ A full and updated list of my publications is available on [Google Scholar](http
 Publication summary
 ======
 
-- 22 papers in total, 5 first-author research papers and 1 conference proceeding, plus 1 first-author software publication.
+- 23 journal papers, including 5 first-author research papers, plus 1 first-author conference proceeding.
 - Research areas: stellar spectroscopy, Galactic archaeology, globular clusters, stellar populations, machine learning, and extragalactic archaeology.
 - ORCID: [0000-0003-2512-6892](https://orcid.org/0000-0003-2512-6892)
 
@@ -20,8 +21,8 @@ Refereed journal articles — published or accepted
 
 1. **Zixian Wang**, Anil C. Seth, Callie Clontz, Nadine Neumayer, Maximilian Häberle, et al.,  
    “oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph”,  
-   2026, arXiv:2603.01041, *accepted for publication in ApJ*.  
-   [[SciX](https://scixplorer.org/abs/2026arXiv260301041W/abstract)]
+   2026, *The Astrophysical Journal*, 1012, 77.  
+   [[DOI](https://iopscience.iop.org/article/10.3847/1538-4357/aeb6ea)] [[arXiv](https://arxiv.org/abs/2603.01041)]
 
 2. **Zixian Wang**, Anil C. Seth, Marilyn Latour, Jay Strader, Maximilian Häberle, et al.,  
    “oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri using Sodium Absorptions”,  
@@ -55,7 +56,7 @@ Refereed journal articles — published or accepted
 
 ### Other publications
 
-8. Y. Ding, M. Martig, L. Zhu, A. Fraser-McKelvie, R. Leaman, et al. (including **Zixian Wang**),  
+8. Yuchen Ding, Marie Martig, Ling Zhu, Amelia Fraser-McKelvie, Ryan Leaman, et al. (including **Zixian Wang**),  
    “The GECKOS survey: assembly history of the lenticular galaxy NGC 3957”,  
    2026, *Monthly Notices of the Royal Astronomical Society*, 552, stag1634.  
    [[SciX](https://scixplorer.org/abs/2026MNRAS.552g1634D/abstract)]
@@ -118,15 +119,22 @@ Refereed journal articles — published or accepted
 Manuscripts submitted to refereed journals
 ======
 
-
+20. Amelia Fraser-McKelvie, Timothy A. Davis, Martin Bureau, Runsheng Cai, Scott M. Croom, et al. (including **Zixian Wang**),  
+    “The GECKOS Survey: deriving bar properties in edge-on galaxies from molecular gas kinematics”,  
+    2026, arXiv:2611.24770, *submitted to Astronomy & Astrophysics*.  
+    [[arXiv](https://arxiv.org/abs/2611.24770v1)]
 
 21. Peter J. Smith, Nadine Neumayer, Anil C. Seth, Callie Clontz, Maximilian Häberle, et al. (including **Zixian Wang**),  
     “oMEGACat. XI. Kinematic Characterization of Omega Centauri's Subpopulations: A Flattened Primordial Component”,  
-    2026, *submitted to ApJ*.
+    2026, arXiv:2611.15866, *submitted to The Astrophysical Journal*.  
+    [[arXiv](https://arxiv.org/abs/2611.15866v1)]
 
+22. Maximilian Häberle, Callie Clontz, Massimo Griggio, Mattia Libralato, Isabella Carlton, et al. (including **Zixian Wang**),  
+    “oMEGACat-JWST I.: Project Description and Photometric Data Release”,  
+    2026, arXiv:2611.23150, *submitted to Astronomy & Astrophysics*.  
+    [[arXiv](https://arxiv.org/abs/2611.23150v1)]
 
-
-22. **Zixian Wang**, Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Anil C. Seth, Gail Zasowski,  
+23. **Zixian Wang**, Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Anil C. Seth, Gail Zasowski,  
     “Age, Chemistry, and Kinematics of the Inner Galaxy Revealed by MUSE”,  
     2025, arXiv:2512.09527, *submitted to Nature Astronomy; under revision*.  
     [[SciX](https://scixplorer.org/abs/2025arXiv251209527W/abstract)]
@@ -136,7 +144,7 @@ Conference proceedings
 
 24. **Zixian Wang**, Michael Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Jesse van de Sande, Sam Vaughan,  
     “The Milky Way in context: Building an IFS datacube of the Galaxy”,  
-    2024, *Proceedings of the International Astronomical Union*, 20, 265–269.  
+    2026, *Proceedings of the International Astronomical Union*, 20, 265–269.  
     [[SciX](https://scixplorer.org/abs/2026IAUTA..31..265W/abstract)]
 
 Software publications
